@@ -8,7 +8,7 @@ This  are my reaons
 
 ##Table
 
-| myrow1        | col2          | col3  |s
+| myrow1        | col2          | col3  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
