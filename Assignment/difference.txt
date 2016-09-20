@@ -1,0 +1,11 @@
+1,5c1,4
+< my Name is Duncan Muriithi Kabogo
+< I am a man
+< My current location is Ghana
+< My current Location is Ghana
+< I live in Sandcity
+---
+> i am a man
+> i live in sandcity
+> my current location is ghana
+> my name is duncan muriithi kabogo

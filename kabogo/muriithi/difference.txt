@@ -1,0 +1,12 @@
+2,6c2,6
+< My name is duncan Muriithi
+< I am a man
+< MEST is an Entrepreneurial school
+< today is Saturday 
+< MEST is an Entrepreneurial school
+---
+> my name is duncan muriithi
+> i am a man
+> mest is an entrepreneurial school
+> today is saturday 
+> mest is an entrepreneurial school
